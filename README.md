@@ -2,7 +2,7 @@
 
 Ingressei no mundo de programação no meio de 2021 nesse meio tempo passei por muitos projetos, esse perfil teve sua criação recente para poder reunir os codigos que tenho realizando durante minha jornada.Segue o link para o site que contem o meu portifolio com os meus projetos.
 
-Link: carniel.eti.br
+Link: [carniel.eti.br](https://carniel.eti.br/)
 
 ![Carniel GitHub stats](https://github-readme-stats.vercel.app/api?username=carnielJoao&show_icons=true&theme=gruvbox)
 
