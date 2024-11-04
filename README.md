@@ -4,7 +4,7 @@ Ingressei no mundo de programação no meio de 2021 nesse meio tempo passei por 
 
 Link: [carniel.eti.br](https://carniel.eti.br/)
 
-![Carniel GitHub stats](https://github-readme-stats.vercel.app/api?username=carnielJoao&show_icons=true&theme=gruvbox)
+[Carniel GitHub stats](https://github-readme-stats.vercel.app/api?username=carnielJoao&show_icons=true&theme=gruvbox)
 
 ## Tecnologias
 
